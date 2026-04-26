@@ -38,8 +38,10 @@ amplifyClient.queries.askBedrock({
  <div className="app-container">
  <div className="header-container">
  <h1 className="main-header">
- Meet Your Personal
- <br />
+  Izaiah Perry
+  <br/>
+  Meet Your Personal
+ <br/>
  <span className="highlight">Recipe AI</span>
  </h1>
  <p className="description">
